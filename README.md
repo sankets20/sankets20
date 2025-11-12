@@ -4,7 +4,7 @@
 ---
 
 ### 🪄 About Me:
-- 💻 I’m currently working on **Lotus Gym Website** — a complete gym website for my town with map integration, WhatsApp automation, and mail query features.
+- 💻 I’m currently working on **Lotus Gym Website** a complete gym website for my town with map integration, WhatsApp automation, and mail query features.
 - 🚀 I’ve built projects using **React.js**, **TypeScript**.
 - 📱 I’m passionate about creating modern web apps with smooth UI/UX and performance optimization.
 - 🌱 Currently exploring **TypeScript** and **Next.js**.
@@ -15,9 +15,9 @@
 ---
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](#)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:your-email-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanket-shende/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/sankxet.s/?utm_source=ig_web_button_share_sheet)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:shendesanket2003@gmail.com)
 
 ---
 
