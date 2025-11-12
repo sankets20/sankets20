@@ -35,14 +35,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
----
-
-### 📊 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
-
----
-
 ### 💬 Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
