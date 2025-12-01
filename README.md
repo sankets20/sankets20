@@ -10,6 +10,7 @@
 - 🌱 Currently exploring **TypeScript** and **Next.js**.
 - 🧠 Ask me about **React**, **Node.js**, or **JavaScript**.
 - 📫 Reach me at **shendesanket2003@gmail.com**
+- 🌐 Portfolio **https://sankets20.github.io/**
 - ⚡ Fun fact: I love gym workouts and follow a consistent training and diet routine.
 
 ---
