@@ -4,7 +4,7 @@
 ---
 
 ### 🪄 About Me:
-- 💻 I’m currently working on **Lotus Gym Website** a complete gym website for my town with map integration, WhatsApp automation, and mail query features.
+- 💻 I’m currently working as React Developer.
 - 🚀 I’ve built projects using **React.js**, **TypeScript**.
 - 📱 I’m passionate about creating modern web apps with smooth UI/UX and performance optimization.
 - 🌱 Currently exploring **TypeScript** and **Next.js**.
